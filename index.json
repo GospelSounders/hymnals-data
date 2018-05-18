@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Hymns and Tunes for Those Who Keep the Commandments of God and the Faith of Jesus",
+    "shortname": "HT1869",
+    "path": "HT1869",
+    "Language": "ENG",
+  },
+  {
+    "id": 2,
+    "name": "The Seventh-day Adventist Hymn and Tune Book (Hymns and Tunes)",
+    "shortname": "HT1886",
+    "path": "HT1886",
+    "Language": "ENG",
+  },
+  {
+    "id": 3,
+    "name": "Christ in Song",
+    "shortname": "CS",
+    "path": "CS",
+    "Language": "ENG",
+  },
+  {
+    "id": 4,
+    "name": "The Church Hymnal",
+    "shortname": "CH",
+    "path": "CH",
+    "Language": "ENG",
+  }
+]
