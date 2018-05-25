@@ -1,6 +1,6 @@
 {
   "NumSongs": 220,
-  "id": 9,
+  "id": 8,
   "titles": {
     "1":"MTAKATIFU, MTAKATIFU, MTAKATIFU"
   },
@@ -18,9 +18,9 @@
         "order": [],
         "otherHymnals": {
           "6":73,
-          "8":73
+          "8":73,
+          "5":244
       }
-    }
     }
   }
 }
