@@ -56,8 +56,8 @@
   {
     "id": 6,
     "name": "The Church Hymnal",
-    "shortname": "CH",
-    "path": "CH",
+    "shortname": "CH1941",
+    "path": "CH1941",
     "Language": "ENGLISH",
     "NumSongs": 703
   },
@@ -86,5 +86,5 @@
     "NumSongs": 332
   }
 ],
-"default":4
+"default":7
 }

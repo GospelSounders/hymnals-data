@@ -1,0 +1,26 @@
+{
+  "NumSongs": 697,
+  "id": 4,
+  "titles": {
+    "1":"Praise to the Lord"
+  },
+  "songs": {
+    "73" : {
+        "title": "Holy, Holy, Holy",
+        "author": "Reginald Heber",
+        "key": "Anon",
+        "stanzas": {
+            "1": "Holy, holy, holy! Lord God Almighty!\r\nEarly in the morning our song shall rise to Thee;\r\nHoly, holy, holy, merciful and mighty!\r\nGod over all who rules eternity",
+            "2": "Holy, holy, holy! Angels adore Thee,\r\nCasting down their bright crowns around the glassy sea;\r\nThousands and ten thousands worship low before Thee,\r\nWhich wert, and art, and evermore shalt be.",
+            "3": "Holy, holy, holy! though the darkness hide Thee,\r\nThough the eye of sinful man Thy glory may not see;\r\nOnly Thou art holy; there is none beside Thee,\r\nPerfect in power, in love, and purity."
+          },
+        "choruses" :{},
+        "order": [],
+        "otherHymnals": {
+          "8":1,
+          "7":73,
+          "5":244
+      }
+    }
+  }
+}

@@ -17,7 +17,43 @@
         "choruses" :{},
         "order": [],
         "otherHymnals": {
-          "3":57
+          "6":57
+      }
+    },
+    "2" : {
+        "title": "All Creatures of Our God and King",
+        "author": "Francis of Assisi",
+        "key": "Anon",
+        "stanzas": {
+            "1": "All creatures of our God and King,\r\nLift up your voice with us and sing:\r\nAlleluia! Alleluia!\r\nO burning sun with golden beam\r\nAnd silver moon with softer gleam:",
+            "2": "O rushing wind and breezes soft,\r\nO clouds that ride the winds aloft:\r\nOh, praise Him! Alleluia!\r\nO rising morn, in praise rejoice,\r\nO lights of evening, find a voice.",
+            "3": "O flowing waters, pure and clear,\r\nMake music for your Lord to hear.\r\nOh, praise Him! Alleluia!\r\nO fire so masterful and bright,\r\nProviding us with warmth and light,",
+            "4": "Let all things their Creator bless,\r\nAnd worship Him in humbleness,\r\nOh, praise Him! Alleluia!\r\nOh, praise the Father, praise the Son,\r\nAnd praise the Spirit, three in One!"
+        },
+        "choruses" :{
+          "1":"Oh, praise Him! Oh, praise Him!\r\nAlleluia, alleluia, alleluia!"
+        },
+        "order": [],
+        "otherHymnals": {
+          "6":56
+      }
+    },
+    "73" : {
+        "title": "Holy, Holy, Holy",
+        "author": "Reginald Heber",
+        "key": "Anon",
+        "stanzas": {
+            "1": "Holy, holy, holy! Lord God Almighty!\r\nEarly in the morning our song shall rise to Thee;\r\nHoly, holy, holy, merciful and mighty!\r\nGod in three Persons, blessed Trinity!",
+            "2": "Holy, holy, holy! Angels adore Thee,\r\nCasting down their bright crowns around the glassy sea;\r\nThousands and ten thousands worship low before Thee,\r\nWhich wert, and art, and evermore shalt be.",
+            "3": "Holy, holy, holy! though the darkness hide Thee,\r\nThough the eye of sinful man Thy glory may not see;\r\nOnly Thou art holy; there is none beside Thee,\r\nPerfect in power, in love, and purity.",
+            "4": "Holy, holy, holy! Lord God Almighty!\r\nAll Thy works shall praise Thy name, in earth, and sky, and sea;\r\nHoly, holy, holy; merciful and mighty!\r\nGod in three Persons, blessed Trinity!"
+          },
+        "choruses" :{},
+        "order": [],
+        "otherHymnals": {
+          "6":73,
+          "8":1,
+          "5":244
       }
     }
   }

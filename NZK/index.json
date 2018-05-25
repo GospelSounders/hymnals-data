@@ -1,0 +1,26 @@
+{
+  "NumSongs": 220,
+  "id": 9,
+  "titles": {
+    "1":"MTAKATIFU, MTAKATIFU, MTAKATIFU"
+  },
+  "songs": {
+    "1" : {
+        "title": "MTAKATIFU, MTAKATIFU, MTAKATIFU",
+        "author": "Reginald Heber",
+        "key": "Anon",
+        "stanzas": {
+            "1": "U Mtakatifu! Mungu Mwenyezi!\r\nAlfajiri Sifa Zako Tutaimba;\r\nU Mtakatifu, Bwana Wa Huruma.\r\nMungu Wavyote Hata Milele",
+            "2": "Umtakatifu! Na Malaika\r\nWengi Sana Wana Kuabudu Wote;\r\nElfu Na Maelfu Wana Kusujudu\r\nWazamani Na Hata Milele.",
+            "3": "U Mtakatifu! Ingawa Giza\r\nLakuficha Fahari Tusiioone,\r\nU Mtakatifu! Wewe Peke Yako,\r\nKamili Kwa Uwezo Na Pendo."
+          },
+        "choruses" :{},
+        "order": [],
+        "otherHymnals": {
+          "6":73,
+          "8":73
+      }
+    }
+    }
+  }
+}
