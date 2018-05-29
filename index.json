@@ -8,8 +8,8 @@
     "path": "MH1843",
     "Language": "ENGLISH",
     "NumSongs": 123,
-    "DoneSongs": 1,
-    "Fixed": 0
+    "DoneSongs": 10,
+    "Fixed": 1
   },
   {
     "id": 1,
@@ -102,8 +102,8 @@
     "path": "WNY",
     "Language": "LUO",
     "NumSongs": 332,
-    "DoneSongs": 1,
-    "Fixed": 0
+    "DoneSongs": 11,
+    "Fixed": 9
   }
 ],
 "default":7
