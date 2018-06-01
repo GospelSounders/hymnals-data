@@ -21,6 +21,25 @@
           "7":73,
           "6":73
       }
+    },
+    "473" : {
+        "title": "Rock of Ages",
+        "author": "Augustus M. Toplady",
+        "key": "Anon",
+        "stanzas": {
+            "1": "Rock of Ages, cleft for me,\r\nLet me hide myself in Thee;\r\nLet the water and the blood,\r\nFrom Thy riven side which flowed,\r\nBe of sin the double cure,\r\nCleanse me from its guilt and power",
+            "2": "Not the labor of my hands\r\nCan fulfill Thy law’s demands;\r\nCould my zeal no respite know,\r\nCould my tears forever flow,\r\nAll for sin could not atone;\r\nThou must save, and Thou alone.",
+            "3": "Nothing in my hand I bring,\r\nSimply to the cross I cling;\r\nNaked, come to Thee for dress;\r\nHelpless look to Thee for grace;\r\nFoul, I to the fountain fly;\r\nWash me, Savior, or I die.",
+            "4": "While I draw this fleeting breath;\r\nWhen mine eyes shall close in death,\r\nWhen I soar to worlds unknown,\r\nSee Thee on Thy judgment throne,\r\nRock of Ages, cleft for me,\r\nLet me hide myself in Thee."
+          },
+        "choruses" :{},
+        "order": [],
+        "otherHymnals": {
+          "5":473,
+          "6":474,
+          "7":300,
+          "8":192
+      }
     }
   }
 }

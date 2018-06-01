@@ -21,6 +21,25 @@
           "7":73,
           "5":244
       }
+    },
+    "191" : {
+        "title": "Mwambwa Wenye Imara",
+        "author": "Augustus M. Toplady",
+        "key": "Anon",
+        "stanzas": {
+            "1": "Mwamba Wenye Imara Kwako Nitajificha\r\nMaji Hayo Na Damu Yaliyotoka Humu,\r\nHinisafi Na Dhambi, Hunifanya Mshindi.",
+            "2": "Kwa Kazi Zote Pia Sitimizi Sheria.\r\nNijapo Fanya Bidii, Nikilia Na Kudhii,\r\nHayaishi Makosa; Ndiwe Wa Kuokoa.",
+            "3": "Sina Cha Mkononi, Naja Msalabani;\r\nNili Tupu, Nivike; Ni Mnyonge, Nishike;\r\nNili Mchafu Naja, Nioshe Ni Sijafa.",
+            "4": "Nikungojapo Chini, Na Kwenda Kaburini;\r\nNipaapo Mbinguni, Na Kukwona Enzini,\r\nRoho Yangu Na Iwe Rahani Mwako Wewe."
+          },
+        "choruses" :{},
+        "order": [],
+        "otherHymnals": {
+          "5":473,
+          "6":474,
+          "7":300,
+          "8":192
+      }
     }
   }
 }
