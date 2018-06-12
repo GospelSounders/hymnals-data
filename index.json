@@ -106,5 +106,6 @@
     "Fixed": 9
   }
 ],
-"default":7
+"default":7,
+"Interval":3600000
 }
