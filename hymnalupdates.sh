@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd hymnals-data
+cd hymnals-data	#called from ../
 git branch dev
 git checkout dev
 git add .
