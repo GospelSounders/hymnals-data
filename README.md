@@ -17,6 +17,12 @@ This is a brief explanation of how to edit hymns and hymnals.
 
 Goto [All Hymnals Sheets](https://docs.google.com/spreadsheets/d/16-cSCawG9fX__QXLWnPyC9-tBUDW2lW7lLhm5UfpEtI/edit?usp=sharing) 
 
+After making any changes to any sheet, make sure to change Updated (this is the value in the cell at the right of the cell marked 'updated' at the bottom of the sheet) to 1 for changes to take place. Then proof read and check if the JSON in dev branch is ok, then merge the changes into master.
+
+If you make changes to a single hymnal, then ensure that you also change either DoneSongs or Fixed in 'All Hymns' Sheet for that specific hymnal. Just increment it by one.
+
 It is almost self explanatory after that. We will add more instructions here in due course
+
+
 
 ## Todo
